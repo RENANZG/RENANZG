@@ -1,7 +1,5 @@
 ![Header](./github-header-image-830x320.png)
 
-#### Hi there 👋
-
 <!--
 **RENANZG/RENANZG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
