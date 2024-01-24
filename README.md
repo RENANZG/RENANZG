@@ -1,4 +1,4 @@
-![Header](./github-header-image-830x320.png)
+![Header](https://github.com/RENANZG/RENANZG/blob/main/github-header-image-725x275.png)
 
 
 <a href="https://www.youtube.com/watch?v=PYuB-cCJwkU">
