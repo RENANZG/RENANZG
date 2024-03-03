@@ -1,1 +1,2 @@
-<img src="https://github.com/RENANZG/RENANZG/blob/main/github-header-image-830x320.png?raw=true">
+<blockquote> “A change in the law is infinitely more difficult to achieve than a change in a technological standard, and as long as legal innovation lags behind technological innovation institutions will seek to abuse that disparity in the furtherance of their interests. It falls to independent, open-source hardware and software developers to close that gap by providing the vital civil liberties protections that the law may be unable, or unwilling, to guarantee.”
+— Edward Snowden </blockquote>
